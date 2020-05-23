@@ -1,7 +1,7 @@
 # Anpaper 
-a minimal wallpaper application made on flutter for Android 
+A minimal wallpaper application made on flutter for Android 
 
-A new Flutter project.
+
 
 ## Getting Started
 
