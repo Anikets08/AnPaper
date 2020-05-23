@@ -1,4 +1,5 @@
-# anpaper2
+# Anpaper 
+a minimal wallpaper application made on flutter for Android 
 
 A new Flutter project.
 
