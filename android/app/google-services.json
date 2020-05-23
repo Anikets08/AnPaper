@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "45825345688",
+    "firebase_url": "https://anpaper-885c3.firebaseio.com",
+    "project_id": "anpaper-885c3",
+    "storage_bucket": "anpaper-885c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:45825345688:android:674b25f8190ed2138328ed",
+        "android_client_info": {
+          "package_name": "com.example.anpaper2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "45825345688-1ljdf7jo7uc9oiv3aie5f8e34pvujege.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlRm1bxMJPokIkouxnNVjQNnzi0r_C-Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "45825345688-1ljdf7jo7uc9oiv3aie5f8e34pvujege.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
